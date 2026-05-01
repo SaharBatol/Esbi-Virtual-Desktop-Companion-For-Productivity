@@ -1,4 +1,8 @@
-# fypcodereact
+# Esbi Virtual Desktop Companion For Productivity
+
+Final Year University Project
+
+---
 
 An Electron application with React
 
